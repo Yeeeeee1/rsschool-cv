@@ -13,3 +13,19 @@ My father told me to start learning programming languages. I started learning **
  * CSS3
  * Javascript
  * Adobe Photoshop
+## Code examples
+### Сonvector of the year
+```
+<script type="text/javascript">
+		var prompt = prompt();
+		var arr = [];
+		arr.push(prompt);
+		var result = Math.floor((Number(arr[0]) / 100) + 1);
+		alert(result + " век");
+	</script>
+ ```
+
+## Experience
+
+I have no work experience
+
