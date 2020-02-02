@@ -29,3 +29,10 @@ My father told me to start learning programming languages. I started learning **
 
 I have no work experience
 
+## Education
+
+I have a *secondary education*
+
+## English
+
+The test says that I have a pre-intermediate. I don’t hear badly and can write simple sentences
