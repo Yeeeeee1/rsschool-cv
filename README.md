@@ -1,3 +1,3 @@
-# rsschool-cv
+# rsschool-cv Yeeeeee1
 
-https://GITHUB-USERNAME.github.io/rsschool-cv/cv
+https://Yeeeeee1.github.io/rsschool-cv/cv
