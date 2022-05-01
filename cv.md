@@ -2,7 +2,7 @@
 ## Name
 Kostya Kravtsov
 ## Contact Info
-**tel:** +375 29 3764042
+**tel:** +375 29 590 0791
 ## Summary
 As Naruto Uzumaki said:
 > My goal in life is to become professional programmer.
