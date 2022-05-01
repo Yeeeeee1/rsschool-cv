@@ -12,6 +12,8 @@ My father told me to start learning programming languages. I started learning **
  * HTML5
  * CSS3
  * Javascript
+ * Angular
+ * Some React
  * Adobe Photoshop
 ## Code examples
 ### Сonvector of the year
