@@ -27,3 +27,7 @@ summary {
   height: 120px;
   background-color: #e0ffff;
 }
+
+.goal {
+  color: grey;
+}
