@@ -1,19 +1,23 @@
 # Junior Front-end Developer Resume
 ## Name
-Kostya Kravtsov
+Kanstantsin Krautsou
 ## Contact Info
 **tel:** +375 29 590 0791
 ## Summary
-As Naruto Uzumaki said:
 > My goal in life is to become professional programmer.
 
-My father told me to start learning programming languages. I started learning **hypertext language** and **style language**, and now I have been learning **javascript** for more than three months now.
+My father told me to start learning programming languages. I started learning **hypertext language** and **style language**, and now I have been learning **javascript**.
 ## Skills
  * HTML5
  * CSS3
- * Javascript
+ * JS
  * Angular
  * Some React
+ * NGRX
+ * Rxjs
+ * Git
+ * Sass
+ * Scss
  * Adobe Photoshop
 ## Code examples
 ### Сonvector of the year
@@ -29,12 +33,12 @@ My father told me to start learning programming languages. I started learning **
 
 ## Experience
 
-I have no work experience
+I'm working in IT company for abot 6 month
 
 ## Education
 
-I have a *secondary education*
+I have a *secondary general education*
 
 ## English
 
-The test says that I have a pre-intermediate. I don’t hear badly and can write simple sentences
+I'm B2. I learned English from Underground language club.
