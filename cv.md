@@ -21,7 +21,7 @@ My father told me to start learning programming languages. I started learning **
  * Adobe Photoshop
 
 I'm a Front-End developer looking for a job. I studied EPAM RS School courses for 3 years and now I working in IT company. I was a team lead for the courses and I have recommendations from course administrators and mentors, so I always received high scores for my assignments. I have been studying programming since childhood and am now ready to work.
-# Certificates:
+## Certificates:
 * https://app.rs.school/certificate/1w15be6x
 * https://app.rs.school/certificate/0b6hsehb
 * https://app.rs.school/certificate/0z224lpz
@@ -30,7 +30,7 @@ I'm a Front-End developer looking for a job. I studied EPAM RS School courses fo
 * https://app.rs.school/certificate/xsc1fbqb
 * There is also a resume from EPAM (Rolling Scopes School):
 * https://app.rs.school/cv/76f752e7-dfe3-43b8-bd55-cc886ac5a9c4
-# I developed my website in 2 months:
+## I developed my website in 2 months:
 https://typingskill.ru/
 
 ## Experience
