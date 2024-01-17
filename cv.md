@@ -39,7 +39,7 @@ I'm working in IT company for about 6 month
 
 ## Education
 
-I have a *secondary general education*
+I have *secondary general education*
 
 ## English
 
